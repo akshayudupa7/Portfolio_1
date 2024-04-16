@@ -39,7 +39,7 @@ function Projects() {
               title="Blog-0f-C0de"
               description="My personal blog page build with React.js and Node.js which takes the content from makdown files. Supports dark mode and easy to write blogs using markdown."
               ghLink="https://github.com/akshayudupa7/Blog-App"
-              demoLink="https://github.com/akshayudupa7/Blog-App"
+              demoLink="https://friendly-trifle-654e1b.netlify.app"
             />
           </Col>
 
