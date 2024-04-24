@@ -27,7 +27,7 @@ function Projects() {
               title="Bookify"
               description="Bookify is a Book Purchasing Website which were built using MERN technology .Used JWT for authentication purpose "
               ghLink="https://github.com/akshayudupa7/book"
-              demoLink="https://book-store-frontend-pic1v8c2i-akshay-us-projects.vercel.app/"
+              demoLink="https://gentle-fenglisu-d52f5d.netlify.app/"
             />
           </Col>
 
